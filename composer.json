@@ -1,0 +1,11 @@
+{
+    "name": "anderson/anded",
+    "description": "projeto inicial de anderson e edison",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Anderson\\Anded\\": "src/"
+        }
+    },
+    "require": {}
+}
